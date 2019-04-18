@@ -1,5 +1,5 @@
 # TorquePS (forked from Monero Integrations)
-A Prestashop addon for accepting Torque (XMR)
+A Prestashop addon for accepting Torque (XTC)
 
 Compatible with the stable version of Prestashop (1.6.x). And working on 1.7.x
 
